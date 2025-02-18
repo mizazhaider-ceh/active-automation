@@ -1,4 +1,4 @@
-# Active-Automation V.3.1 🚀🌐💻
+7# Active-Automation V.3.1 🚀🌐💻
 
 ![Active-Automation V.3.1](screenshots/logo.png)
 
@@ -208,6 +208,6 @@ MIT License - See the [LICENSE](LICENSE) file for details 📄.
 
 ## Author & Contact 📧
 
- **Author** : Muhammad Izaz Haider (Penetration Tester / Developer) 👨‍💻
- **Email** : [mizazhaiderceh@gmail.com]() ✉️
- **LinkedIn** : [Muhammad Izaz Haider 🌐](https://www.linkedin.com/in/muhammad-izaz-haider-091639314/)
+- **Author** : Muhammad Izaz Haider (Penetration Tester / Developer) 👨‍💻
+- **Email** : [mizazhaiderceh@gmail.com]() ✉️
+ - **LinkedIn** : [Muhammad Izaz Haider 🌐](https://www.linkedin.com/in/muhammad-izaz-haider-091639314/)
