@@ -2,7 +2,7 @@
 
 ![Active-Automation V.3.1](screenshots/logo.png)
 
-Active-Automation is a powerful and comprehensive tool that automates the active information gathering process, utilizing the best tool for scanning, Nmap 🔍. It features a variety of scripts ranging from basic to complex, ensuring it meets the needs of both beginners and advanced users in penetration testing and cybersecurity 👨‍💻🎯.
+Active-Automation is a powerful and comprehensive tool that automates the active information gathering process, utilizing the best tool for scanning, Nmap 🔍 written in bash , 1400+ lines of code used and having 32+ features. It features a variety of scripts ranging from basic to complex, ensuring it meets the needs of both beginners and advanced users in penetration testing and cybersecurity 👨‍💻🎯.
 
 📋 **Table of Contents** 📋
 
