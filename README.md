@@ -1,4 +1,4 @@
-7# Active-Automation V.3.1 🚀🌐💻
+# Active-Automation V.3.1 🚀🌐💻
 
 ![Active-Automation V.3.1](screenshots/logo.png)
 
