@@ -151,33 +151,33 @@ sudo apt-get install cowsay lolcat nmap
 Below are the screenshots of the various scripts and functions in Active-Automation V.3.1:
 
 * **Logo**
-  ![Logo](screenshots/aa-logo.png) 
+* ![Logo](screenshots/aa-logo.png) 
 * **Main Menu Screenshot** 📷
- ![Main Menu Screenshot](screenshots/main-menu.png) 
+* ![Main Menu Screenshot](screenshots/main-menu.png) 
 * **Subscript - Comprehensive Automation (Logo)**
-  ![Comprehensive Automation (Logo)](screenshots/ca-logo.png) 
+*  ![Comprehensive Automation (Logo)](screenshots/ca-logo.png) 
 * **Subscript - Comprehensive Automation (Result)**
-  ![Comprehensive Automation (Result)](screenshots/ca-result.png) 
+*  ![Comprehensive Automation (Result)](screenshots/ca-result.png) 
 * **Subscript - Individual-X Scan (Logo)🔍**
-  ![Individual-X Scan (Logo)](screenshots/is-logo.png) 
+*  ![Individual-X Scan (Logo)](screenshots/is-logo.png) 
 * **Subscript - Individual-X Scan (Menu)🔍**
-  ![Individual-X Scan (Menu)](screenshots/is-menu.png) 
+*  ![Individual-X Scan (Menu)](screenshots/is-menu.png) 
 * **Subscript - Advanced-X Scan(Logo) 🎯**
-  ![Advanced-X Scan(Logo)](screenshots/as-scan.png) 
+*  ![Advanced-X Scan(Logo)](screenshots/as-scan.png) 
 * **Subscript - Advanced-X Scan(Menu) 🎯**
-  ![Advanced-X Scan(Menu)](screenshots/as-menu.png) 
+*  ![Advanced-X Scan(Menu)](screenshots/as-menu.png) 
 * **Speedy-X Scan(Logo) 🚀**
-  ![Speedy-X Scan(Logo)](screenshots/ss-logo.png) 
+*  ![Speedy-X Scan(Logo)](screenshots/ss-logo.png) 
 * **Speedy-X Scan(Menu) 🚀**
-  ![Speedy-X Scan(Menu)](screenshots/ss-menu.png) 
+*  ![Speedy-X Scan(Menu)](screenshots/ss-menu.png) 
 * **Running**
-  ![Running Script](screenshots/running.png) 
+*  ![Running Script](screenshots/running.png) 
 * **Saving Scan Output** 💾
-  ![Saving](screenshots/saving.png) 
+*  ![Saving](screenshots/saving.png) 
 * **Target Checking**
-  ![Target Checking](screenshots/target-checking.png) 
+*  ![Target Checking](screenshots/target-checking.png) 
 * **Changing tha Target**
-  ![Changing tha Target](screenshots/change-target.png) 
+*  ![Changing tha Target](screenshots/change-target.png) 
 
 ## Example Use Cases 💡
 
