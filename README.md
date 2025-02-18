@@ -204,7 +204,7 @@ Below are the screenshots of the various scripts and functions in Active-Automat
 
 ## License 📃
 
-MIT License - See the LICENSE file for details 📄.
+MIT License - See the [LICENSE](LICENSE) file for details 📄.
 
 ## Author & Contact 📧
 
